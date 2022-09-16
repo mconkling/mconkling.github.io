@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    color: rgb(4, 4, 28);
+    margin: 0px;
+    padding: 5px;
+    padding-left: 0px; 
+}
+
+p {
+    line-height: 24px;
+}
+
+h2 {
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 0px;
+    padding-bottom: 50px;
+    font-size: x-large;
+    font-weight: 100;
+}
+h3 {
+    color: black;
+    font-size:medium;
+    font-weight: 500;
+    margin: 25px;
+    line-height: 25px;
+}
